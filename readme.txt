@@ -64,7 +64,7 @@ An answer to that question.
 
 == Screenshots ==
 
-1. http://zotabox.com/mail_images/zotabox_fbshare.png
+1. Zotabox landing page with demo widgets
 2. 
 
 == Changelog ==
