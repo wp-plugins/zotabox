@@ -28,6 +28,8 @@ FREE Tools Available Immediately
 
 + Stickers - promote latest news, new arrivals, blogs etc.
 
+Premium Tools (Ten FREE Consecutive Days Every Month)
+
 + Email Capture Bar - to collect new subscribers
 
 + Social Coupon Popup Box - offer discount for new subscribers, followers etc
@@ -65,7 +67,14 @@ An answer to that question.
 == Screenshots ==
 
 1. Zotabox landing page with demo widgets
-2. 
+2. Free widgets on dashboard
+3. Premium widgets on dashboard
+4. Promo Bar - to promote sales, products, blogs, new arrivals
+5. Social Buttons - encourage followers to join your site
+6. Stickers - promote latest news, new arrivals, blogs etc.
+7. Testimonials - have other customers promote for you
+8. Email Capture Bar - to collect new subscribers
+9. Social Coupon Popup Box - offer discount for new subscribers, followers etc
 
 == Changelog ==
 
