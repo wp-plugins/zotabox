@@ -42,6 +42,18 @@ Coming Soon:
 
 + Surveys etc - find out what your customers are thinking
 
+Email Service Integration (Coming Soon)
+
++ MailChimp
+
++ ConstantContact
+
++ Campaign Monitor
+
++ GetResponse
+
++ AWeber
+
 == Installation ==
 
 To install this plugin properly, please follow these instructions:
