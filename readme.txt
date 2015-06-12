@@ -19,7 +19,7 @@ Zotabox - Free marketing tools to promote your site
 + Get More Followers. Promote Your Products/Sales/Blogs etc
 
 
-<b>FREE Tools Available Immediately</b>
+<strong>FREE Tools Available Immediately</strong>
 
 + Promo Bar - to promote sales, products, blogs, new arrivals
 
@@ -29,13 +29,13 @@ Zotabox - Free marketing tools to promote your site
 
 + Stickers - promote latest news, new arrivals, blogs etc.
 
-<b>Premium Tools (Ten FREE Consecutive Days Every Month)</b>
+<strong>Premium Tools (Ten FREE Consecutive Days Every Month)</strong>
 
 + Email Capture Bar - to collect new subscribers
 
 + Social Coupon Popup Box - offer discount for new subscribers, followers etc
 
-<b>Coming Soon:</b>
+<strong>Coming Soon:</strong>
 
 + Navigational Icons - top of page, home page, FAQ etc
 
@@ -43,7 +43,7 @@ Zotabox - Free marketing tools to promote your site
 
 + Surveys etc - find out what your customers are thinking
 
-<b>Email Service Integration (Coming Soon)</b>
+<strong>Email Service Integration (Coming Soon)</strong>
 
 + MailChimp
 
