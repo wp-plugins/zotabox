@@ -18,7 +18,7 @@ Zotabox - Free marketing tools to promote your site
 
 + Get More Followers. Promote Your Products/Sales/Blogs etc
 
-FREE Tools Available Immediately
+<h3>FREE Tools Available Immediately</h3>
 
 + Promo Bar - to promote sales, products, blogs, new arrivals
 
