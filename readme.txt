@@ -43,7 +43,7 @@ Zotabox - Free marketing tools to promote your site
 
 + Surveys etc - find out what your customers are thinking
 
-<strong>Email Service Integration (Coming Soon)</strong>
+<strong>Email Service Integration</strong>
 
 + MailChimp
 
