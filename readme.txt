@@ -21,7 +21,7 @@ Zotabox - Free marketing tools to promote your site
 
 <strong>FREE Tools Available Immediately</strong>
 
-+ Promo Bar - to promote sales, products, blogs, new arrivals
++ <a href="http://widgets.zotabox.com/zbv1/informationbar?utm_source=wordpress.com&utm_medium=plugin%20page&utm_campaign=integration%20plugins&authuser=anonymous">Promo Bar</a> - to promote sales, products, blogs, new arrivals
 
 + Social Buttons - encourage followers to join your site
 
