@@ -21,19 +21,21 @@ Zotabox - Free marketing tools to promote your site
 
 <strong>FREE Tools Available Immediately</strong>
 
-+ <a href="http://widgets.zotabox.com/zbv1/informationbar?utm_source=wordpress.com&utm_medium=plugin%20page&utm_campaign=integration%20plugins&authuser=anonymous">Promo Bar</a> - to promote sales, products, blogs, new arrivals
++ <a href="http://widgets.zotabox.com/zbv1/informationbar?utm_source=wordpress.com&utm_medium=plugin%20page&utm_campaign=integration%20plugins&authuser=anonymous" target="_blank">Promo Bar</a> - to promote sales, products, blogs, new arrivals
 
-+ Social Buttons - encourage followers to join your site
++ <a href="http://widgets.zotabox.com/zbv1/socialtab?utm_source=wordpress.com&utm_medium=plugin%20page&utm_campaign=integration%20plugins&authuser=anonymous" target="_blank">Social Buttons</a> - encourage followers to join your site
 
-+ Testimonials - have other customers promote for you
++ <a href="http://widgets.zotabox.com/zbv2/testimonial?utm_source=wordpress.com&utm_medium=plugin%20page&utm_campaign=integration%20plugins&authuser=anonymous" target="_blank">Testimonials</a> - have other customers promote for you
 
-+ Stickers - promote latest news, new arrivals, blogs etc.
++ <a href="http://widgets.zotabox.com/zbv2/postitimage?utm_source=wordpress.com&utm_medium=plugin%20page&utm_campaign=integration%20plugins&authuser=anonymous" target="_blank">Stickers</a> - promote latest news, new arrivals, blogs etc.
 
 <strong>Premium Tools (Ten FREE Consecutive Days Every Month)</strong>
 
-+ Email Capture Bar - to collect new subscribers
++ <a href="http://widgets.zotabox.com/zbv2/easybanner?utm_source=wordpress.com&utm_medium=plugin%20page&utm_campaign=integration%20plugins&authuser=anonymous" target="_blank">Easy Banner</a> - upload your custom image and link to any page
 
-+ Social Coupon Popup Box - offer discount for new subscribers, followers etc
++ <a href="http://widgets.zotabox.com/zbv1/newsletterbar?utm_source=wordpress.com&utm_medium=plugin%20page&utm_campaign=integration%20plugins&authuser=anonymous" target="_blank">Email Capture Bar</a> - to collect new subscribers
+
++ <a href="http://widgets.zotabox.com/zbv2/socialcouponpopup?utm_source=wordpress.com&utm_medium=plugin%20page&utm_campaign=integration%20plugins&authuser=anonymous" target="_blank">Social Coupon Popup Box</a> - offer discount for new subscribers, followers etc
 
 <strong>Coming Soon:</strong>
 
