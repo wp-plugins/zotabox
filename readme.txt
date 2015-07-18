@@ -31,7 +31,7 @@ Zotabox - Free marketing tools to promote your site
 
 + Stickers - promote latest news, new arrivals, blogs etc.
 
-<strong><a href="http://zotabox.com/?utm_source=wordpress.com&utm_medium=plugin%20page&utm_campaign=integration%20plugins" target="_blank">Premium Tools</a> (Ten FREE Consecutive Days Every Month)</strong>
+<a href="http://zotabox.com/?utm_source=wordpress.com&utm_medium=plugin%20page&utm_campaign=integration%20plugins" target="_blank"><strong>Premium Tools</strong></a> (Ten FREE Consecutive Days Every Month)
 
 + Easy Banner - upload your custom image and link to any page
 
