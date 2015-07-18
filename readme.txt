@@ -12,6 +12,8 @@ Zotabox - Free marketing tools to promote your site
 
 == Description ==
 
+<a href="http://zotabox.com/live-preview/?utm_source=wordpress.com&utm_medium=plugin%20page&utm_campaign=integration%20plugins" target="_blank"><strong>LIVE PREVIEW</strong></a> or <a href="http://zotabox.com/?utm_source=wordpress.com&utm_medium=plugin%20page&utm_campaign=integration%20plugins" target="_blank"><strong>START USING YOUR FREE TOOLS NOW</strong></a>
+
 + Dramatically Boost Your Sales/Subscribers and Followers with our FREE Customizable Marketing Tools
 
 + Collect More Email Addresses with our Email Capture Bar and Popup Box
